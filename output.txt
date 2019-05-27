@@ -1,0 +1,61 @@
+1- triangle bva
+15 bva
+25 worst case
+special cases
+
+2-nxtdate bva
+15 bva(day=30)
+15 bva(day=31)
+25 worst case
+special cases	
+
+3-commission bva
+15 bva
+25 Output Boundary Value Analysis Cases
+special cases
+
+4-triangle ect
+4- weak/strong  normal ect
+6-weak robust
+7-strong robust
+
+5- nxtdate ect
+1- weak/strong  normal ect
+7-weak robust
+7-strong robust
+
+6-commission ect
+1- weak/strong  normal ect
+8-weak robust
+7-strong robust
+3-test cases for output range(sales)
+
+7-triangle dt
+dt(6-condition,5-action,11 rules)
+chart with 6 condition(3-cant form a triangle eqilateral,isoseleses,scalence)
+
+8-commission dt
+dt(4-condition,7-action,9 rules)
+dt for sales(4-condition,4-action,4 rules)
+
+9-commission dataflow
+chart hving defined at node and used at node
+du path chart(9)
+
+10-binary search
+diagram
+4 independent paths(11-9+2)
+chart with test cases(5 cases)
+
+11-quicksort
+chart for [node no,dd path name]
+diagram
+7 independent paths
+chart with test cases(7 cases)
+
+12-absolute letter grading
+diagram
+10 independent paths(26-18+2)
+chart with test cases( 5 cases)
+
+
