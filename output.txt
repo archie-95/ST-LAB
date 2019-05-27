@@ -37,6 +37,8 @@ chart with 6 condition(3-cant form a triangle eqilateral,isoseleses,scalence)
 8-commission dt
 dt(4-condition,7-action,9 rules)
 dt for sales(4-condition,4-action,4 rules)
+chart 1 with 9 condition
+chart 2 with 4 condition
 
 9-commission dataflow
 chart hving defined at node and used at node
